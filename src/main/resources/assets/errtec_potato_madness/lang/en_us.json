@@ -1,0 +1,27 @@
+{
+  "item.errtec_potato_madness.cobble": "Cobble",
+  "item.errtec_potato_madness.charred_cobble": "Charred Cobble",
+  "item.errtec_potato_madness.copper_nugget": "Copper Nugget",
+  "item.errtec_potato_madness.copper_shard": "Copper Shard",
+  "item.errtec_potato_madness.charred_copper_ingot": "Charred Copper Ingot",
+  "item.errtec_potato_madness.charred_copper_nugget": "Charred Copper Nugget",
+  "item.errtec_potato_madness.charred_copper_shard": "Charred Copper Shard",
+  "item.errtec_potato_madness.iron_shard": "Iron Shard",
+  "item.errtec_potato_madness.charred_iron_ingot": "Charred Iron Ingot",
+  "item.errtec_potato_madness.charred_iron_nugget": "Charred Iron Nugget",
+  "item.errtec_potato_madness.charred_iron_shard": "Charred Iron Shard",
+  "item.errtec_potato_madness.tiny_coal": "Tiny Coal",
+  "item.errtec_potato_madness.coal_shard": "Coal Shard",
+  "item.errtec_potato_madness.molten_coal": "Molten Coal",
+  "item.errtec_potato_madness.tiny_molten_coal": "Tiny Molten Coal",
+  "item.errtec_potato_madness.molten_coal_shard": "Molten Coal Shard",
+
+  "block.errtec_potato_madness.potato_block": "Potato Block",
+  "block.errtec_potato_madness.compressed_potato_block": "Compressed Potato Block",
+  "block.errtec_potato_madness.charred_cobblestone": "Charred Cobblestone",
+  "block.errtec_potato_madness.charred_copper_block": "Block of Charred Copper",
+  "block.errtec_potato_madness.charred_iron_block": "Block of Charred Iron",
+  "block.errtec_potato_madness.molten_coal_block": "Block of Molten Coal",
+
+  "creativetab.et_potato_madness_tab": "ErrorTech: Potato Madness Items"
+}
