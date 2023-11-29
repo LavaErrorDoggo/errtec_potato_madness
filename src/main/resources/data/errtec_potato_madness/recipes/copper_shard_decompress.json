@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "copper_shard",
+  "ingredients": [
+    {
+      "item": "escapeerrortechmodpackmod:copper_nugget"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "errtec_potato_madness:copper_shard"
+  }
+}

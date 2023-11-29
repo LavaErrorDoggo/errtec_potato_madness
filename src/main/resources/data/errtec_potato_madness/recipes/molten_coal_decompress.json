@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "molten_coal",
+  "ingredients": [
+    {
+      "item": "errtec_potato_madness:molten_coal_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "errtec_potato_madness:molten_coal"
+  }
+}

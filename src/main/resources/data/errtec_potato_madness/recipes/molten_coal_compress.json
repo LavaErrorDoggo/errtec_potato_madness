@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "molten_coal",
+  "ingredients": [
+    {
+      "item": "errtec_potato_madness:tiny_molten_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_molten_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_molten_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_molten_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_molten_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_molten_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_molten_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_molten_coal"
+    }
+  ],
+  "result": {
+    "item": "errtec_potato_madness:molten_coal"
+  }
+}

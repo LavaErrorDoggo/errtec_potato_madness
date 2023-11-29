@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "charred_iron_ingot",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "errtec_potato_madness:charred_iron_nugget"
+    }
+  },
+  "result": {
+    "item": "errtec_potato_madness:charred_iron_ingot"
+  }
+}

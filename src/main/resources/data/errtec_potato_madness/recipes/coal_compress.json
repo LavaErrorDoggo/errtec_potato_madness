@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "coal",
+  "ingredients": [
+    {
+      "count": 8,
+      "item": "errtec_potato_madness:tiny_coal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:coal"
+  }
+}

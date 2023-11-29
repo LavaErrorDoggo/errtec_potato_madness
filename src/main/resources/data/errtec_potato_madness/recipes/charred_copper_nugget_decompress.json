@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "charred_copper_nugget",
+  "ingredients": [
+    {
+      "item": "errtec_potato_madness:charred_copper_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "errtec_potato_madness:charred_copper_nugget"
+  }
+}

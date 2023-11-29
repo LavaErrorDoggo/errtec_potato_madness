@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cobblestone",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "errtec_potato_madness:cobble"
+    }
+  },
+  "result": {
+    "item": "minecraft:cobblestone"
+  }
+}

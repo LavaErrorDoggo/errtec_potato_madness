@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "potato_block",
+  "ingredients": [
+    {
+      "item": "errtec_potato_madness:compressed_potato_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "errtec_potato_madness:potato_block"
+  }
+}

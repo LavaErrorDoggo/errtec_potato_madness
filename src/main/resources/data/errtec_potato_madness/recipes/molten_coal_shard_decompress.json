@@ -1,0 +1,13 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "errtec_potato_madness:tiny_molten_coal"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "errtec_potato_madness:molten_coal_shard"
+  }
+}

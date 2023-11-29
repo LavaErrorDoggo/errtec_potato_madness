@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tiny_coal",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "errtec_potato_madness:coal_shard"
+    }
+  },
+  "result": {
+    "item": "errtec_potato_madness:tiny_coal"
+  }
+}

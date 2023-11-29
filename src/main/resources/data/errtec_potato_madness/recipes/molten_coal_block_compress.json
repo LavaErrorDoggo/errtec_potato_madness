@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "errtec_potato_madness:molten_coal"
+    }
+  },
+  "result": {
+    "item": "errtec_potato_madness:molten_coal_block"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "potato_block",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:potato"
+    }
+  },
+  "result": {
+    "item": "errtec_potato_madness:potato_block"
+  }
+}
