@@ -43,6 +43,8 @@ public class ModItems {
 
     public static final RegistryObject<Item> MoltenCoalShard = ITEMS.register("molten_coal_shard", () -> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> SmilePotatoRaw = ITEMS.register("raw_smile_potato", () -> new Item(new Item.Properties()));
+
 
     public static void register(IEventBus eventbus) {
         ITEMS.register(eventbus);

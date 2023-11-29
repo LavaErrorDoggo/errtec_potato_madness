@@ -1,4 +1,5 @@
 {
+  "item.errtec_potato_madness.raw_smile_potato": "Raw Smile Potato",
   "item.errtec_potato_madness.cobble": "Cobble",
   "item.errtec_potato_madness.charred_cobble": "Charred Cobble",
   "item.errtec_potato_madness.copper_nugget": "Copper Nugget",
@@ -16,6 +17,7 @@
   "item.errtec_potato_madness.tiny_molten_coal": "Tiny Molten Coal",
   "item.errtec_potato_madness.molten_coal_shard": "Molten Coal Shard",
 
+  "block.errtec_potato_madness.smile_potato_ore_block": "Smile Potato Ore",
   "block.errtec_potato_madness.potato_block": "Potato Block",
   "block.errtec_potato_madness.compressed_potato_block": "Compressed Potato Block",
   "block.errtec_potato_madness.charred_cobblestone": "Charred Cobblestone",

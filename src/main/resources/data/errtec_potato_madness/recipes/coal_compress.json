@@ -3,7 +3,27 @@
   "group": "coal",
   "ingredients": [
     {
-      "count": 8,
+      "item": "errtec_potato_madness:tiny_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_coal"
+    },
+    {
+      "item": "errtec_potato_madness:tiny_coal"
+    },
+    {
       "item": "errtec_potato_madness:tiny_coal"
     }
   ],

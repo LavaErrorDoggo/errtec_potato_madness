@@ -19,6 +19,8 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("creativetab.et_potato_madness_tab"))
                     .displayItems((pParameters, pOutput) -> {
 
+                        pOutput.accept(ModItems.SmilePotatoRaw.get());
+
                         pOutput.accept(ModItems.CharCobble.get());
                         pOutput.accept(ModItems.CharCopperIngot.get());
                         pOutput.accept(ModItems.CharCopperNugget.get());
@@ -29,6 +31,8 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.MoltenCoal.get());
                         pOutput.accept(ModItems.TinyMoltenCoal.get());
                         pOutput.accept(ModItems.MoltenCoalShard.get());
+
+                        pOutput.accept(ModBlocks.SmilePotatoOreBlock.get());
 
                         pOutput.accept(ModBlocks.PotatoBlock.get());
                         pOutput.accept(ModBlocks.CompressedPotatoBlock.get());

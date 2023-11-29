@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "coal",
+  "ingredients": [
+    {
+      "item": "errtec_potato_madness:potato_block"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "errtec_potato_madness:smile_potato_ore_block"
+  }
+}

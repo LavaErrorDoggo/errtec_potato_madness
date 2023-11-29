@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "cookingtime": 600,
+  "experience": 0.35,
+  "group": "baked_potato",
+  "ingredient": {
+    "item": "errtec_potato_madness:raw_smile_potato"
+  },
+  "result": "errtec_potato_madness:compressed_potato_block"
+}
